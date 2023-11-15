@@ -8,7 +8,7 @@ TODO
 
 - [ ] Tutorial 4
   - [x] request object
-  - [ ] response object
+  - [x] response object
   - [ ] returning html pages
   - [ ] basic routing
   - [ ] status codes

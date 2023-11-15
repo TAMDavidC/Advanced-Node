@@ -6,12 +6,12 @@ David Cruz
 
 TODO
 
-- [ ] Tutorial 4
+- [x] Tutorial 4
   - [x] request object
   - [x] response object
   - [x] returning html pages
   - [x] basic routing
   - [x] status codes
-  - [ ] redirects
+  - [x] redirects
 - [ ] tutorial 5
 - [ ] tutorial 6

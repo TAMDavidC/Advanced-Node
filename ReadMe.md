@@ -16,6 +16,7 @@ TODO
 - [ ] tutorial 5
   - [x] 3rd party packages
   - [x] installing pacjkages globally (nodemon)
-  - [ ] the package.json file and installing packages locally
+  - [x] the package.json file 
+  - [x] installing packages locally
   - [ ] dependcies and sharing code
 - [ ] tutorial 6

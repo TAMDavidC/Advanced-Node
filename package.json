@@ -1,0 +1,15 @@
+{
+  "name": "advanced-node",
+  "version": "1.0.0",
+  "description": "Advanced Node\r David Cruz\r 11/14/2023",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}

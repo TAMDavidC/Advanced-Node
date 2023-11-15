@@ -14,4 +14,8 @@ TODO
   - [x] status codes
   - [x] redirects
 - [ ] tutorial 5
+  - [x] 3rd party packages
+  - [x] installing pacjkages globally (nodemon)
+  - [ ] the package.json file and installing packages locally
+  - [ ] dependcies and sharing code
 - [ ] tutorial 6

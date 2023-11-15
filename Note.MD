@@ -1,5 +1,13 @@
 # Notes
 
+## enabling running scripts
+
+<https://www.sharepointdiary.com/2014/03/fix-for-powershell-script-cannot-be-loaded-because-running-scripts-is-disabled-on-this-system.html>
+
+## installing packages with node
+
+npm install -g nodemon
+
 ## Sending an HTML File to the Browser
 
 ~~~ javascript

@@ -1,5 +1,8 @@
 # Notes
 
+## How to Run the app.js File in Replit
+<https://replit.com/talk/ask/How-can-a-change-the-js-what-I-want-run/115881>
+
 ## enabling running scripts
 
 <https://www.sharepointdiary.com/2014/03/fix-for-powershell-script-cannot-be-loaded-because-running-scripts-is-disabled-on-this-system.html>

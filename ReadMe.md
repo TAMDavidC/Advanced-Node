@@ -13,10 +13,10 @@ TODO
   - [x] basic routing
   - [x] status codes
   - [x] redirects
-- [ ] tutorial 5
+- [x] tutorial 5
   - [x] 3rd party packages
   - [x] installing pacjkages globally (nodemon)
   - [x] the package.json file 
   - [x] installing packages locally
-  - [ ] dependcies and sharing code
+  - [x] dependcies and sharing code
 - [ ] tutorial 6

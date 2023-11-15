@@ -19,8 +19,8 @@ TODO
   - [x] the package.json file 
   - [x] installing packages locally
   - [x] dependcies and sharing code
-- [ ] tutorial 6
+- [x] tutorial 6
   - [x] What is express
-  - [ ] Creating an express app
-  - [ ] routing & html pages
-  - [ ] redirects & 404 pages
+  - [x] Creating an express app
+  - [x] routing & html pages
+  - [x] redirects & 404 pages

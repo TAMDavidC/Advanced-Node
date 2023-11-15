@@ -11,7 +11,7 @@ TODO
   - [x] response object
   - [x] returning html pages
   - [x] basic routing
-  - [ ] status codes
+  - [x] status codes
   - [ ] redirects
 - [ ] tutorial 5
 - [ ] tutorial 6

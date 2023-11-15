@@ -9,7 +9,7 @@ TODO
 - [ ] Tutorial 4
   - [x] request object
   - [x] response object
-  - [ ] returning html pages
+  - [x] returning html pages
   - [ ] basic routing
   - [ ] status codes
   - [ ] redirects

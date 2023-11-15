@@ -1,5 +1,6 @@
 // http://localhost:3000/
 const http = require("http");
+const fs = require(`fs`)
 
 const server = http.createServer((req, res)=>{
     console.log(req.url, req.method);
@@ -7,10 +8,17 @@ const server = http.createServer((req, res)=>{
     // set header content type
     res.setHeader(`Content-Type`, `text/html`);
     
-    res.write(`<head><link rel="styleshet href="#></head>`);
-    res.write(`<p>Hello, ninjas</p>`);
-    res.write(`<p>Hello again, ninjas</p>`);
-    res.end();
+    // snd an html file
+    fs.readFile(`./views/index.html`, (err, data) => {
+        if (err){
+            console.log(err);
+            res.end();
+        }
+        else{
+            res.end(data);
+        }
+    })
+    
 });
 
 server.listen(3000, 'localhost', () => {
